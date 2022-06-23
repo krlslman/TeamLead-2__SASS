@@ -1,7 +1,7 @@
 # TeamLead-2__SASS
 Questions (here on .md) and notes (on html) for teamlead about Sass on 3rd June.
 
-ASK QUESTIONS 
+# ASK QUESTIONS 
 
 1. Who is the inventor of SASS?
 A. James Gosling
@@ -103,10 +103,10 @@ D. ABC
 Answer: C
 
 12. Which statement can be used to select the element from the DOM containing the text "Clarusway Way to Reinvent Yourself" from this markup?
-<h1 class="content">Clarusway</h1>
+" <h1 class="content">Clarusway</h1>
 <div class="content">
  <span class="content">Clarusway Way to Reinvent Yourself</span>
-</div>
+</div> "
 A.document.querySelector("div.content")
 B.document.querySelector("span.content")
 C.document.querySelector(".content")
@@ -128,7 +128,7 @@ D. enter
 Answer: A
 
 
-INTERVIEW QUESTIONS 
+# INTERVIEW QUESTIONS 
 
 1. What are all the looping structures in JavaScript?
 Answer: Following are looping structures in Javascript:
